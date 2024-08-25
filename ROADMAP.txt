@@ -9,3 +9,5 @@ Features :
 	- Add a buy button to purchase characters
 
 	- Add a simulation where characters from the player's roster can fight generated characters
+
+	- Add a database to keep track of gladiators (in order to keep data manageable, while still having depth)
