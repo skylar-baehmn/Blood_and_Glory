@@ -1,0 +1,11 @@
+Features : 
+
+	- Add more character stats to the character shop screen
+
+		these will be based on the player's skill level -> higher skill == more accurate stats.
+
+	- Add a simple placeholder image to the character shop screen
+
+	- Add a buy button to purchase characters
+
+	- Add a simulation where characters from the player's roster can fight generated characters
